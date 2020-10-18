@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210178095428",
+    "firebase_url": "https://prithviraj-30d26.firebaseio.com",
+    "project_id": "prithviraj-30d26",
+    "storage_bucket": "prithviraj-30d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210178095428:android:4320139d8f19bfb9e1bf11",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210178095428-tn7ujtqtio5qeqqgtfjijqen75a2vk09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVGC8-fDCydnPts0fhb8ivaAp-u3exv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210178095428-tn7ujtqtio5qeqqgtfjijqen75a2vk09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
